@@ -5,6 +5,7 @@ metadata:
   name: cicd
   namespace: flux-system
 spec:
+  targetNamespace: argo-events
   interval: 5m0s
   path: ./
   prune: true
