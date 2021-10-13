@@ -8,5 +8,5 @@ spec:
   interval: 30s
   ref:
     branch: main
-  url: https://github.com/yokoyama610/my-cicd-env
+  url: https://github.com/shichengshi/my-cicd-env
 
